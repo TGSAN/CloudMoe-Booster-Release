@@ -15,6 +15,38 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
+!!---Steam---
+.steamcommunity.com
+||steamcommunity.com
+!--steamcommunity.com/profiles/76561198062771609
+!--steamcommunity.com/groups/LibetTibet
+!--steamcommunity.com/groups/zhonggong
+!--steamcommunity.com/id/CJT_Jackton
+|http://store.steampowered.com/app/333600
+
+!!---Origin---
+||origin-a.akamaihd.net
+||ea.com
+.ea.com
+||origin.com
+.origin.com
+
+!!---PUBG---
+||playbattlegrounds.com
+.playbattlegrounds.com
+||battlegroundsgame.com
+.battlegroundsgame.com
+||pubgbluehole.com
+.pubgbluehole.com
+
+!!---Anthem---
+||biowareonline.net
+.biowareonline.net
+
+!!---S3---
+||s3.amazonaws.com
+.s3.amazonaws.com
+
 !---------403/451/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
@@ -1462,38 +1494,6 @@ nytcn.me
 userapi.nytlog.com
 cn.nytstyle.com
 ||nytstyle.com
-
-!!---Steam---
-.steamcommunity.com
-||steamcommunity.com
-!--steamcommunity.com/profiles/76561198062771609
-!--steamcommunity.com/groups/LibetTibet
-!--steamcommunity.com/groups/zhonggong
-!--steamcommunity.com/id/CJT_Jackton
-|http://store.steampowered.com/app/333600
-
-!!---Origin---
-||origin-a.akamaihd.net
-||ea.com
-.ea.com
-||origin.com
-.origin.com
-
-!!---PUBG---
-||playbattlegrounds.com
-.playbattlegrounds.com
-||battlegroundsgame.com
-.battlegroundsgame.com
-||pubgbluehole.com
-.pubgbluehole.com
-
-!!---Anthem---
-||biowareonline.net
-.biowareonline.net
-
-!!---S3---
-||s3.amazonaws.com
-.s3.amazonaws.com
 
 !!---Telegram---
 !!!---Domain---
